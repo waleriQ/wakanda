@@ -1,0 +1,40 @@
+
+.benefits {
+    background: url("../img/0077c0.png") center no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+}
+.benefits__info {
+    text-align: center;
+}
+.benefits__title {
+    color: white;
+    margin-bottom: 15px;
+}
+.benefits__subtitle {
+    font-family: 'SF Pro Display Bold';
+    font-size: 40px;
+    color: white;
+    max-width: 400px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.benefits__cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 81px;
+}
+.benefits__pic {
+    width: 100px;
+    background-size: cover;
+    margin-bottom: 30px;
+}
+.benefits__icon-title {
+    color: white;
+    font-family: 'SF Pro Display Bold';
+    margin-bottom: 20px;
+}
+.benefits__icon-subtitle {
+    color: white;
+margin-bottom: 100px;
+}

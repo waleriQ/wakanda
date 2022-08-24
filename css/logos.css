@@ -1,0 +1,11 @@
+.logos__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.logos__pic {
+width: 150px;
+}
+.logos {
+    margin-bottom: 100px;
+}

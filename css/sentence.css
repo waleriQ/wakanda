@@ -1,0 +1,35 @@
+.sentence__wrapper {
+    background-color: #0077C0;
+margin-bottom: 50px;
+}
+.sentence__img {
+    padding-right: 60px;
+}
+.sentence__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 20px;
+}
+.sentence__title {
+    color: white;
+    font-size: 20px;
+
+}
+.sentence__subtitle {
+    color: white;
+    font-family: 'SF Pro Display Bold';
+    font-size: 40px;
+    margin-bottom: 30px;
+    max-width: 440px;
+    line-height: 1.2;
+}
+.sentence__btn {
+    background-color: white;
+    color: #0071D9;
+
+}
+.sentence__btn:hover {
+    background-color: #cfcfcf;
+}

@@ -1,0 +1,52 @@
+.header {
+    padding-top: 25px;
+}
+
+.header__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.header__list {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.header__item {
+    padding-right: 14px;
+}
+.header__logo {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.header__img {
+    padding-right: 10px;
+    width: 50px;
+
+}
+.header__title {
+    font-family: 'SF Pro Display Bold';
+    font-size: 25px;
+}
+.header__link {
+    text-decoration: none;
+    color: black;
+    padding-right: 15px;
+    font-size: 18px;
+}
+.btn_blue {
+    background-color: #0077C0;
+    padding: 10px 26px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'SF Pro Display';
+    font-weight: 600;
+    text-decoration: none;
+
+}
+.btn_blue:hover {
+    background: #2781b9;
+}

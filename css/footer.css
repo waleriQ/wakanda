@@ -1,0 +1,52 @@
+.footer__wrapper {
+    background-color: #1D242B;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer__logo-name {
+    color: white;
+    font-size: 20px;
+}
+
+.footer__subtitle {
+    color: white;
+}
+.footer__grid-wrap {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 2fr;
+}
+.footer__logo-title {
+    color: white;
+}
+.footer__logo-title {
+    padding-left: 50px;
+    display: inline-block;
+    background: url("../img/footer_logo.svg") no-repeat left center;
+    font-size: 25px;
+    line-height: 24px;
+    margin-bottom: 30px;
+    font-family: 'SF Pro Display Bold';
+}
+.footer__icons-item {
+    padding-right: 15px;
+    width: 40px;
+    height: 60px;
+    max-width: 40px;
+    max-height: 60px;
+    margin-bottom: 30px;
+}
+.footer__logo-subtitle {
+    color: white;
+}
+.footer__company-title {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family: 'SF Pro Display Bold';
+}
+.footer__list {
+    color: white;
+}
+.footer__list-item {
+    margin-bottom: 16px;
+}

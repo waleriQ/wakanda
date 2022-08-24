@@ -1,0 +1,46 @@
+
+.explore__wrapper {
+    background-color: #C7EEFF;
+    height: 82.5vh;
+    margin-bottom: 70px;
+}
+
+.explore__left-side {
+padding-top: 150px;
+max-width: 600px;
+
+}
+.explore__title {
+    color: black;
+    font-size: 50px;
+    font-family: 'SF Pro Display Bold';
+    margin-bottom: 20px;
+}
+.explorer__subtitle {
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+.explore__right-side {
+    position: relative;
+}
+.explore__man {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 3;
+    transform: translateY(-344px);
+}
+.explore__ellips {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 2;
+    transform: translateY(-270px);
+}
+.explore__card {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 3;
+    transform: translateY(-27px);
+}
